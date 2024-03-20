@@ -11,8 +11,8 @@ GlassBoARd is a gaze-enabled augmented reality application that allows two colla
 
 If you have questions about this research, feel free to contact 
 
-Kenan Bektaş: [kenan.bektas@unisg.ch](mailto:kenan.bektas@unisg.ch)
 Adrian Pandjaitan: [adrian.pandjaitan@student.unisg.ch](mailto:adrian.pandjaitan@student.unisg.ch)
+Kenan Bektaş: [kenan.bektas@unisg.ch](mailto:kenan.bektas@unisg.ch)
 
 This research has been done by the group of Interaction- and Communication-based Systems ([interactions.ics.unisg.ch](https://interactions.ics.unisg.ch)) at the University of St.Gallen ([unisg.ch](https://unisg.ch)).
 
